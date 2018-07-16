@@ -16,7 +16,7 @@ begin	KEYWORD2
 update	KEYWORD2
 setLed	KEYWORD2
 toggleLed	KEYWORD2
-getLed KEYWORD2
+getLed	KEYWORD2
 getTemperature	KEYWORD2
 getLightLevel	KEYWORD2
 isBtn1Pressed	KEYWORD2
@@ -26,7 +26,7 @@ isBtn2Held	KEYWORD2
 playTone	KEYWORD2
 playMelody	KEYWORD2
 stopTone	KEYWORD2
-setScreenBrightness KEYWORD2
+setScreenBrightness	KEYWORD2
 fillScreen	KEYWORD2
 clearScreen	KEYWORD2
 drawRow	KEYWORD2
